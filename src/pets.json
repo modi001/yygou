@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "YuGiYn #6822",
+    "picture": "images/0.png",
+    "min": 0.01,
+    "breed": "YuGi-Labs",
+    "tokenid": 0,
+    "contractaddr": "0xa1145eE12b55857826ED22296D21d48E33C9b073"
+  },
+  {
+    "id": 1,
+    "name": "YuGiYn #5970",
+    "picture": "images/1.png",
+    "min": 0.01,
+    "breed": "YuGi-Labs",
+    "tokenid": 1,
+    "contractaddr": "0xa1145eE12b55857826ED22296D21d48E33C9b073"
+  },
+  {
+    "id": 2,
+    "name": "CryptoPunk #100",
+    "picture": "images/2.png",
+    "min": 0.01,
+    "breed": "Yoga_Design",
+    "tokenid": 2,
+    "contractaddr": "0xa1145eE12b55857826ED22296D21d48E33C9b073"
+  },
+  {
+    "id": 3,
+    "name": "CryptoPunk #1009",
+    "picture": "images/3.png",
+    "min": 20,
+    "breed": "Yoga_Design",
+    "tokenid": 12,
+    "contractaddr": "0x7825b96535245eA998d07dE134931ad5e5bFFf4E"
+  },
+  {
+    "id": 4,
+    "name": "CryptoPunk #1024",
+    "picture": "images/4.png",
+    "min": 20,
+    "breed": "Yoga_Design",
+    "tokenid": 29,
+    "contractaddr": "0x2817FBE43C0B65e6453b7e7B3B37828D77ea0e0E"
+  },
+  {
+    "id": 5,
+    "name": "Master Cats #1582",
+    "picture": "images/5.jpg",
+    "min": 30,
+    "breed": "IXLabs",
+    "tokenid": 20,
+    "contractaddr": "0x0909"
+  },
+  {
+    "id": 6,
+    "name": "Slumber #56",
+    "picture": "images/6.jpg",
+    "min": 3,
+    "breed": "YOLO-Official",
+    "tokenid": 22,
+    "contractaddr": "0x9988888"
+  },
+  {
+    "id": 7,
+    "name": "Slumber #798",
+    "picture": "images/7.jpg",
+    "min": 3,
+    "breed": "Golden Retriever",
+    "tokenid": 822,
+    "contractaddr": "0x000000001"
+  }
+]
